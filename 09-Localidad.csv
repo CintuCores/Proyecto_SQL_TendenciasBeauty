@@ -1,0 +1,686 @@
+﻿ID_Localidad,Localidad,ID_Ciudad
+LOC01,6,CIU08
+LOC02,45,CIU03
+LOC03,51,CIU03
+LOC04,59,CIU08
+LOC05,99,CIU18
+LOC06,107,CIU03
+LOC07, (Echeverria),CIU03
+LOC08, (Imprenta),CIU03
+LOC09, (Malabia),CIU03
+LOC10, 044-Monroe,CIU03
+LOC11, 067-Acasusso,CIU03
+LOC12, 090-Villa Devoto (Georgalos),CIU03
+LOC13, 091-Abasto,CIU03
+LOC14, 092-Vicente Lopez,CIU03
+LOC15, 103-Caballito Av. Gaona 1956,CIU03
+LOC16, -158 Charcas,CIU03
+LOC17, 181-Saavedra,CIU03
+LOC18, 1ero de Mayo,CIU18
+LOC19, 2 RESISTENCIA,CIU16
+LOC20, 209 Mendoza,CIU12
+LOC21, 220-Barracas (Martin Garcia),CIU03
+LOC22, 25 de Mayo,CIU23
+LOC23, 25 de Mayo 998,CIU06
+LOC24, 3 CORRIENTES,CIU07
+LOC25, 6 y 59 1900,CIU08
+LOC26, 61-Once,CIU03
+LOC27, -69 Victoria,CIU03
+LOC28, 9 de Julio,CIU03
+LOC29, Ãlvarez Jonte 4683,CIU03
+LOC30, Acassuso,CIU03
+LOC31, Acoyte (5260),CIU03
+LOC32, AdroguÃ©,CIU03
+LOC33, Adrogue,CIU03
+LOC34, Adrogue 2 (1002),CIU03
+LOC35, Agronomía (1524),CIU03
+LOC36, Alberdi 4351,CIU03
+LOC37, Almagro,CIU03
+LOC38, Almirante Brown 943,CIU03
+LOC39, Alsina,CIU03
+LOC40, Alvarez Jonte 6383,CIU03
+LOC41, Alvarez Thomas,CIU03
+LOC42, Alvarez Thomas 300 ,CIU03
+LOC43, Alvarez Tomas 300,CIU03
+LOC44, Alvear 299,CIU03
+LOC45, Amenabar 1902,CIU03
+LOC46, Araoz (4119),CIU03
+LOC47, Arcos,CIU03
+LOC48, Arenales 902,CIU03
+LOC49, Arias [Cabildo 4633],CIU03
+LOC50, Armenia 1499,CIU03
+LOC51, Artigas,CIU03
+LOC52, Av Beiró (4237),CIU03
+LOC53, Av Cabildo 3460 (1100),CIU03
+LOC54, Av Cazon,CIU03
+LOC55, Av Córdoba (4702),CIU03
+LOC56, Av Corrientes 2800,CIU03
+LOC57, Av Cramer (573),CIU03
+LOC58, Av de los Incas,CIU03
+LOC59, Av de los Incas 4138,CIU03
+LOC60, Av Gaona (665),CIU03
+LOC61, Av Nazca (167),CIU03
+LOC62, Av Rivadavia (4030),CIU03
+LOC63, AV SAN MARTIN 2321,CIU03
+LOC64, Av Santa Fe (1091),CIU03
+LOC65, AV. ALEM 1096 (319),CIU03
+LOC66, Av. Álvarez Jonte 3301,CIU03
+LOC67, Av. Beiro 3307,CIU03
+LOC68, Av. Boedo (949),CIU03
+LOC69, Av. Cabildo 2102 (12),CIU03
+LOC70, AV. CABILDO 3852 (305),CIU03
+LOC71, Av. Cabildo 601 (93),CIU03
+LOC72, AV. CORONEL DIAZ 2037 (87),CIU03
+LOC73, AV. CORRIENTES (297),CIU03
+LOC74, Av. Corrientes 5296,CIU03
+LOC75, Av. Corrientes 5296 (150),CIU03
+LOC76, Av. de los Constituyentes 5601,CIU03
+LOC77, AV. DE LOS INCAS 4483,CIU03
+LOC78, Av. De Mayo [av. De Mayo 602][52],CIU03
+LOC79, Av. Del Libertador,CIU03
+LOC80, Av. del Libertador (266),CIU03
+LOC81, Av. Del Libertador 5800.,CIU03
+LOC82, Av. Florida (954),CIU03
+LOC83, Av. Fuerza Aerea 1895,CIU06
+LOC84, Av. Independencia,CIU03
+LOC85, Av. Independencia (250),CIU03
+LOC86, AV. LACROZE 3412 (329),CIU03
+LOC87, AV. LAS HERAS 3395/99 (151),CIU03
+LOC88, av. Monroe 2703,CIU03
+LOC89, Av. Montes de Oca,CIU03
+LOC90, Av. Montes de Oca (317),CIU03
+LOC91, Av. PueyrredÃ³n,CIU03
+LOC92, Av. Pueyrredón (24),CIU03
+LOC93, AV. PUEYRREDON 1498 (32),CIU03
+LOC94, Av. Rivadavia,CIU03
+LOC95, AV. RIVADAVIA (955),CIU03
+LOC96, Av. Rivadavia 2701,CIU03
+LOC97, Av. Rivadavia 2701 (128),CIU03
+LOC98, Av. S. Elcano 3102,CIU03
+LOC99, Av. Santa Fe 3152,CIU03
+LOC100, AV. SCALABRINI ORTIZ 2596 (167),CIU03
+LOC101, Av.de los Incas 4138,CIU03
+LOC102, Av.Sabattini 2225,CIU06
+LOC103, Avellaneda (02),CIU03
+LOC104, Avellaneda (27),CIU03
+LOC105, Avellaneda (8),CIU03
+LOC106, Avellaneda [Av. Mitre 949],CIU03
+LOC107, Avellaneda Bis,CIU18
+LOC108, Baez,CIU03
+LOC109, Baez 400,CIU03
+LOC110, Bahia Blanca,CIU01
+LOC111, Bahía Blanca (127),CIU01
+LOC112, Bahía Blanca (14),CIU01
+LOC113, Bajo Belgrano,CIU03
+LOC114, Balbin,CIU03
+LOC115, Balbin (323),CIU03
+LOC116, Balbin (480),CIU03
+LOC117, Ballester,CIU03
+LOC118, Balvanera,CIU03
+LOC119, Banfield (51),CIU03
+LOC120, Banfield (52),CIU03
+LOC121, Banfield [Maipu 339/337],CIU03
+LOC122, Bariloche,CIU02
+LOC123, Barracas,CIU03
+LOC124, Barracas (405),CIU03
+LOC125, Barracas 1,CIU03
+LOC126, Barrio Norte,CIU03
+LOC127, BeirÃ³,CIU03
+LOC128, Beiro (237),CIU03
+LOC129, Beiro 3,CIU03
+LOC130, Beiro2,CIU03
+LOC131, Belgrano,CIU03
+LOC132, Belgrano (1097),CIU03
+LOC133, Belgrano (14),CIU03
+LOC134, Belgrano (925),CIU03
+LOC135, Belgrano [Calle Belgrano 266/70],CIU03
+LOC136, Belgrano 1,CIU03
+LOC137, Belgrano 1789,CIU19
+LOC138, Bella Vista (163),CIU03
+LOC139, Benavidez (149),CIU03
+LOC140, Berazategui (1023),CIU03
+LOC141, Berazategui (484) (Fuera de cobertura),CIU03
+LOC142, Berazategui I,CIU03
+LOC143, Bernal (25),CIU03
+LOC144, Bernardo de Yrigoyen,CIU03
+LOC145, BILLINGHURST 2014/24 183,CIU03
+LOC146, Boedo,CIU03
+LOC147, Boedo (730),CIU03
+LOC148, Bolivar (198),CIU03
+LOC149, Botanico,CIU03
+LOC150, Botánico,CIU03
+LOC151, Botánico (203),CIU03
+LOC152, Botica,CIU03
+LOC153, Boulevard los Granaderos 2455,CIU06
+LOC154, Brandsen (1007),CIU03
+LOC155, Brazategui I,CIU03
+LOC156, Caballito,CIU03
+LOC157, Caballito (1080),CIU03
+LOC158, Caballito (1098),CIU03
+LOC159, Caballito (222),CIU03
+LOC160, Caballito (90),CIU03
+LOC161, Caballito Av Alberdi (1098),CIU03
+LOC162, Cabello,CIU03
+LOC163, Cabildo,CIU03
+LOC164, Cabildo (111),CIU03
+LOC165, Cabildo (919),CIU03
+LOC166, Cabildo 1300,CIU03
+LOC167, Cabildo 2401,CIU03
+LOC168, Cabildo 3562 (226),CIU03
+LOC169, Cabildo 4855,CIU03
+LOC170, Cabildo 4855 (316),CIU03
+LOC171, Cabrera,CIU03
+LOC172, Callao,CIU03
+LOC173, CALLE 12 Nº 1337 (952),CIU08
+LOC174, Calle 47 La Plata (903),CIU08
+LOC175, Calle 8 Nro. 940,CIU08
+LOC176, Camargo,CIU03
+LOC177, Canning,CIU03
+LOC178, Cantilo y Diagonal 92 City Bell,CIU08
+LOC179, Carlos Paz (233),CIU29
+LOC180, Carlos Paz (650),CIU29
+LOC181, Carlos Pellegrini 1050 - Carrefour,CIU10
+LOC182, Carlos Pellegrini 341 (41),CIU03
+LOC183, Caseros,CIU03
+LOC184, Caseros (148),CIU03
+LOC185, Caseros (234),CIU03
+LOC186, Caseros (311),CIU03
+LOC187, Castelar (1011),CIU03
+LOC188, Castelar (199),CIU03
+LOC189, Castelar Sur (4155),CIU03
+LOC190, Castro Barros,CIU06
+LOC191, Catamarca (178),CIU20
+LOC192, Catamarca (243),CIU20
+LOC193, Catedral 1 Parana,CIU14
+LOC194, Catedral 2 Parana,CIU14
+LOC195, Catedral 4 Santiago,CIU27
+LOC196, Cazon Express Tigre,CIU03
+LOC197, CC Nordelta,CIU03
+LOC198, Centenario,CIU03
+LOC199, Centenera,CIU03
+LOC200, Cerro II Av Rafael Nunez (29),CIU06
+LOC201, Cervantes,CIU03
+LOC202, Cerviño,CIU03
+LOC203, Cerviño (5206),CIU03
+LOC204, Cerviño (523),CIU03
+LOC205, Chacabuco,CIU06
+LOC206, Chacras de Coria (5225),CIU12
+LOC207, Charcas 4301,CIU03
+LOC208, Chenaut 1812,CIU03
+LOC209, ColombRes,CIU03
+LOC210, Comodoro (292),CIU05
+LOC211, Comodoro Rivadavia (5277),CIU05
+LOC212, Condor 5,CIU15
+LOC213, Constitucion 501,CIU03
+LOC214, Cordoba,CIU03
+LOC215, Córdoba,CIU03
+LOC216, Cordoba (024),CIU06
+LOC217, Córdoba (4),CIU06
+LOC218, Cordoba (453),CIU06
+LOC219, Cordoba 3,CIU03
+LOC220, Cordoba 315 (145),CIU03
+LOC221, Coronel Pringles (3),CIU03
+LOC222, Corrientes,CIU03
+LOC223, Corrientes (159),CIU07
+LOC224, Corrientes (4275),CIU03
+LOC225, Corrientes (623),CIU07
+LOC226, Corrientes (927),CIU03
+LOC227, Corrientes 4002,CIU03
+LOC228, Cuba (977),CIU03
+LOC229, Cuenca,CIU03
+LOC230, Cuenca (130),CIU03
+LOC231, Cuenca (52),CIU03
+LOC232, Cuenca 3257,CIU03
+LOC233, Defensa,CIU03
+LOC234, Devoto,CIU03
+LOC235, Diaz Velez 4764,CIU03
+LOC236, Directorio,CIU03
+LOC237, Dot,CIU03
+LOC238, DOT (1905),CIU03
+LOC239, Echeverria,CIU03
+LOC240, EL INCA,CIU26
+LOC241, Elcano,CIU03
+LOC242, Elias Yofre,CIU06
+LOC243, Ensenada (1034),CIU08
+LOC244, Envío Rápido Jujuy (1806),CIU25
+LOC245, Estacion Carabobo,CIU03
+LOC246, Estrada,CIU06
+LOC247, Express,CIU03
+LOC248, ExpRess 24 de Septiembre 1500,CIU06
+LOC249, ExpRess Alem 198 (723),CIU03
+LOC250, ExpRess Almagro (573),CIU03
+LOC251, ExpRess AmenÃ¡bar (343),CIU03
+LOC252, ExpRess Amenabar (632),CIU03
+LOC253, ExpRess Anchorena (317),CIU03
+LOC254, ExpRess Araoz (630),CIU03
+LOC255, ExpRess Arevalo (531),CIU03
+LOC256, ExpRess Beccar (437),CIU03
+LOC257, ExpRess Boedo (415),CIU03
+LOC258, ExpRess Caseros (478),CIU03
+LOC259, ExpRess Castelar (439),CIU03
+LOC260, ExpRess Chacarita (547),CIU03
+LOC261, ExpRess Charcas (331),CIU03
+LOC262, ExpRess Deheza (300),CIU03
+LOC263, ExpRess Esmerlda 428 (375),CIU03
+LOC264, ExpRess Falcón (316),CIU03
+LOC265, ExpRess Gutierrez (581),CIU03
+LOC266, ExpRess Haedo (427),CIU03
+LOC267, ExpRess Hipolito Yrigoyen 1790 (654),CIU03
+LOC268, ExpRess Independencia 855,CIU06
+LOC269, ExpRess Jonte (376),CIU03
+LOC270, ExpRess Juana Manso 199 (668),CIU03
+LOC271, ExpRess Lacroze (337),CIU03
+LOC272, ExpRess LanÃºs Oeste (466),CIU03
+LOC273, ExpRess Larralde (525),CIU03
+LOC274, ExpRess Liniers (727),CIU03
+LOC275, ExpRess Maipu 918 (541),CIU03
+LOC276, ExpRess MorÃ³n (442),CIU03
+LOC277, ExpRess Olazabal (568),CIU03
+LOC278, ExpRess Pareja (685),CIU03
+LOC279, ExpRess Parque Patricios (487),CIU03
+LOC280, ExpRess PerÃ³n (591),CIU03
+LOC281, ExpRess Quilmes (462),CIU03
+LOC282, Express Retiro (302),CIU03
+LOC283, ExpRess San MartÃ­n (588),CIU03
+LOC284, ExpRess San MartÃ­n (669),CIU03
+LOC285, ExpRess San Miguel (755),CIU03
+LOC286, Express San Nicolás (Lima 945),CIU03
+LOC287, ExpRess Sarmiento 345 (558),CIU03
+LOC288, ExpRess Tacuari 89 (571),CIU03
+LOC289, ExpRess Tigre (440),CIU03
+LOC290, ExpRess Tucuman 1541 (694),CIU03
+LOC291, ExpRess Villa Ballester (429),CIU03
+LOC292, ExpRess Villa Luro (626),CIU03
+LOC293, Express Villa Urquiza (646),CIU03
+LOC294, ExpRess Villa Urquiza (741),CIU03
+LOC295, Ezeiza (496),CIU03
+LOC296, Ezeiza (80),CIU03
+LOC297, Farmacity Rafael NuÃ±ez,CIU06
+LOC298, Farmaki,CIU03
+LOC299, Fda Mitre 25,CIU12
+LOC300, FDA Mitre Mercantil,CIU24
+LOC301, FDA MITRE SAN JUAN,CIU21
+LOC302, fernandez,CIU03
+LOC303, Fernandez (286),CIU03
+LOC304, Finochietto,CIU03
+LOC305, FloRes,CIU03
+LOC306, Flores (6),CIU03
+LOC307, FloResta (8),CIU03
+LOC308, Forest,CIU03
+LOC309, Fraguiero 2070,CIU06
+LOC310, Fraguiero 2070 Alta Córdoba,CIU06
+LOC311, Friuli (28),CIU06
+LOC312, Funes,CIU06
+LOC313, GÃ¼emes,CIU11
+LOC314, Galvan,CIU03
+LOC315, Gaona y Graham Bell - Carrefour (Fuera de Cobertura),CIU03
+LOC316, Garay,CIU03
+LOC317, Gascon 2899,CIU11
+LOC318, Gispert,CIU03
+LOC319, Godoy Cruz,CIU12
+LOC320, Gomez (92),CIU03
+LOC321, Gorriti 5300,CIU03
+LOC322, Guayaquil 398,CIU03
+LOC323, Guaymallen (173),CIU12
+LOC324, Guemes 4500,CIU03
+LOC325, H. Pueyrredon,CIU03
+LOC326, Haedo,CIU03
+LOC327, Hiper Jacinto,CIU06
+LOC328, Hiper Lugones,CIU06
+LOC329, Hipolito Yrigoyen 8837 (Lomas),CIU03
+LOC330, Hurlingham,CIU03
+LOC331, Imprenta,CIU03
+LOC332, Incas,CIU03
+LOC333, Independencia (1074),CIU03
+LOC334, Iriondo,CIU03
+LOC335, Italia 105,CIU03
+LOC336, Ituzaingo,CIU03
+LOC337, J. B. Justo (4263),CIU03
+LOC338, J. SALGUERO 3077 (144),CIU03
+LOC339, Jerónimo Salguero 2963,CIU03
+LOC340, Jose Hernandez,CIU03
+LOC341, Juan B Justo (380),CIU03
+LOC342, Juan B Justo 6517,CIU03
+LOC343, Juan Francisco Segui (402),CIU03
+LOC344, Juan Segundo (202),CIU03
+LOC345, Jujuy (647),CIU25
+LOC346, Jujuy 1492,CIU06
+LOC347, Jujuy 2 (168),CIU25
+LOC348, Jujuy Yrigoyen,CIU25
+LOC349, Juncal,CIU03
+LOC350, JUNCAL 2100 (175),CIU03
+LOC351, Juramento,CIU03
+LOC352, JURAMENTO 2115 (916),CIU03
+LOC353, Juramento 2601,CIU03
+LOC354, Juramento 3100,CIU03
+LOC355, La Barraca,CIU12
+LOC356, La Horqueta (4235),CIU03
+LOC357, La Plata,CIU03
+LOC358, La Plata (4063),CIU08
+LOC359, La Plata (42),CIU08
+LOC360, La Plata (636),CIU08
+LOC361, La Plata (75),CIU08
+LOC362, La Plata 1400 - Carrefour,CIU03
+LOC363, La Porteña,CIU03
+LOC364, La Rioja (135),CIU09
+LOC365, La Rioja (705),CIU09
+LOC366, La Rioja 2,CIU09
+LOC367, Lacroze,CIU03
+LOC368, Lacroze (519),CIU03
+LOC369, Lacroze (691),CIU03
+LOC370, Lacroze 2497,CIU03
+LOC371, Lacroze 2497 (322),CIU03
+LOC372, Lacroze 2600,CIU03
+LOC373, Lacroze 3801,CIU03
+LOC374, Lanus (150),CIU03
+LOC375, Lanus (692),CIU03
+LOC376, Lanus [Av. 9 de Julio 1236],CIU03
+LOC377, Lanus La Paz,CIU03
+LOC378, Lanus Oeste [Avenida Hipolito Yrigoyen,CIU03
+LOC379, Lanus Pedrera,CIU03
+LOC380, Las Heras,CIU03
+LOC381, Las Heras (4121),CIU03
+LOC382, Las Heras 2400,CIU03
+LOC383, Lavalle,CIU03
+LOC384, Leloir,CIU03
+LOC385, LENCINAS,CIU26
+LOC386, Libertador 215 (Carrefour),CIU03
+LOC387, Liniers,CIU03
+LOC388, Lomas,CIU03
+LOC389, Lomas (8),CIU03
+LOC390, Lomas 1 (Carman),CIU03
+LOC391, Lomas 2 (Sucre),CIU03
+LOC392, Lomas 3,CIU03
+LOC393, Lomas De Zamora,CIU03
+LOC394, Lomas De Zamora (1010),CIU03
+LOC395, Lomas De Zamora (307),CIU03
+LOC396, Lomas de Zamora (5204),CIU03
+LOC397, Lope de Vega,CIU03
+LOC398, Lope de Vega 3207,CIU03
+LOC399, Lope de Vega CABA 1628,CIU03
+LOC400, Los Lirios,CIU03
+LOC401, Lujan (162),CIU10
+LOC402, Luro (56),CIU11
+LOC403, Madero 2,CIU03
+LOC404, Maipu (161),CIU03
+LOC405, Maipu (187),CIU12
+LOC406, Maipu (921),CIU03
+LOC407, Malabia,CIU03
+LOC408, Manzanares (4665),CIU03
+LOC409, Mar del Plata,CIU11
+LOC410, Mar del Plata (172),CIU11
+LOC411, Mar del Plata (184),CIU11
+LOC412, Mar Del Plata (190),CIU11
+LOC413, Mar del Plata (57),CIU11
+LOC414, Mar del Plata Sur (55),CIU11
+LOC415, Marcelo T de Alvear (301),CIU03
+LOC416, MARCELO T. DE ALVEAR 1901 (158),CIU03
+LOC417, Marcos Paz,CIU23
+LOC418, Maria del Carril,CIU03
+LOC419, Market Córdoba (381),CIU03
+LOC420, Market Rivadavia (148),CIU03
+LOC421, Market Vidt (150),CIU03
+LOC422, Martinez,CIU03
+LOC423, Maure,CIU03
+LOC424, Medrano,CIU03
+LOC425, Medrano (295),CIU03
+LOC426, Melián 2502,CIU03
+LOC427, Mendoza,CIU03
+LOC428, Mendoza (5222),CIU12
+LOC429, Mendoza Cabildo,CIU03
+LOC430, Merlo,CIU03
+LOC431, Merlo (159),CIU03
+LOC432, Mini Ambrosio Olmos,CIU06
+LOC433, Mini Barranquitas,CIU06
+LOC434, Mini Caraffa,CIU06
+LOC435, Mini ConstrucciÃ³n,CIU06
+LOC436, Mini Derqui,CIU06
+LOC437, Mini Octavio Pinto,CIU06
+LOC438, Mini Parana,CIU06
+LOC439, Mini Rondeau,CIU06
+LOC440, Mini Sagrada Familia,CIU06
+LOC441, Mitre (1038),CIU03
+LOC442, Mitre (1800),CIU19
+LOC443, Mitre 1,CIU12
+LOC444, Monroe,CIU03
+LOC445, Monroe (413),CIU03
+LOC446, Monroe 4299,CIU03
+LOC447, Monroe 4900 (318),CIU03
+LOC448, Monserrat,CIU03
+LOC449, Monserrat (308),CIU03
+LOC450, Monte Grande (698),CIU03
+LOC451, Montes de Oca,CIU03
+LOC452, Montevideo (4137),CIU03
+LOC453, Moron,CIU03
+LOC454, Moron (1026),CIU03
+LOC455, Morón (5208),CIU03
+LOC456, Mosconi,CIU03
+LOC457, Munro,CIU03
+LOC458, Munro (1004),CIU03
+LOC459, Naón (4107),CIU03
+LOC460, Nazca,CIU03
+LOC461, Nazca (639),CIU03
+LOC462, Neuquen,CIU03
+LOC463, Neuquen (185),CIU13
+LOC464, Neuquen (5216),CIU13
+LOC465, Nordelta,CIU03
+LOC466, Nordelta (138),CIU03
+LOC467, Nordelta (182),CIU03
+LOC468, norte,CIU23
+LOC469, NuÃ±ez,CIU03
+LOC470, Nueva ChenÃº,CIU03
+LOC471, Nueva del Libertador,CIU03
+LOC472, Nuñez,CIU03
+LOC473, Olazabal,CIU03
+LOC474, Olazabal (366),CIU03
+LOC475, Olazabal 5005,CIU03
+LOC476, Olga Cossettini,CIU03
+LOC477, Olivos,CIU03
+LOC478, Olivos (103),CIU03
+LOC479, OLLEROS 1899 (280),CIU03
+LOC480, Once,CIU03
+LOC481, Orien,CIU03
+LOC482, Oroño [Av. B Rivadavia nº 5991/95/9,CIU03
+LOC483, Pacheco (5626),CIU03
+LOC484, Pacheco de melo 2402,CIU03
+LOC485, Pacifico,CIU03
+LOC486, Palermo,CIU03
+LOC487, Palermo (4206),CIU03
+LOC488, Palermo 1,CIU03
+LOC489, Paraguay,CIU03
+LOC490, Paraguay 2801,CIU03
+LOC491, Paraná,CIU14
+LOC492, Parana (100),CIU03
+LOC493, Paraná (1050),CIU14
+LOC494, Paraná (109),CIU14
+LOC495, Parati,CIU03
+LOC496, Parque Patricios,CIU03
+LOC497, Paso de los Andes (4188),CIU12
+LOC498, Pasteur,CIU03
+LOC499, Patio Maristas,CIU12
+LOC500, Patricios,CIU03
+LOC501, Patron (411),CIU03
+LOC502, pba lujan,CIU10
+LOC503, pba tandil,CIU28
+LOC504, PeÃ±a,CIU03
+LOC505, Pedernera,CIU03
+LOC506, Pedro Goyena 1315,CIU03
+LOC507, Peron,CIU03
+LOC508, Peron (911),CIU03
+LOC509, Piedras,CIU03
+LOC510, Pilar (5211),CIU03
+LOC511, Pinamar (49),CIU04
+LOC512, Podesta,CIU03
+LOC513, Porteña,CIU03
+LOC514, Posadas,CIU15
+LOC515, Posadas 3 Arrechea (Costanera),CIU15
+LOC516, Pres. Peron 1199,CIU03
+LOC517, Puerto Madero (4213),CIU03
+LOC518, Pueyrredon (384),CIU03
+LOC519, Pueyrredon 2140,CIU03
+LOC520, Pueyrredon 517,CIU03
+LOC521, Pueyrredon 517 (84),CIU03
+LOC522, Pujol,CIU03
+LOC523, Quilmes,CIU03
+LOC524, Quilmes (282),CIU03
+LOC525, Quilmes [Rivadavia 243],CIU03
+LOC526, Quilmes II (5034),CIU03
+LOC527, Quintana,CIU03
+LOC528, Quiros (4451),CIU06
+LOC529, Quiros (451),CIU06
+LOC530, Rafael NuÃ±ez,CIU06
+LOC531, Rafael Nuñez,CIU06
+LOC532, Ramallo,CIU03
+LOC533, Ramos,CIU03
+LOC534, Ramos (4152),CIU03
+LOC535, Ramos MejÃ­a,CIU03
+LOC536, Ramos Mejia (1009),CIU03
+LOC537, Ramos Mejia (152),CIU03
+LOC538, Ramos Mejia (157),CIU03
+LOC539, Rawson (4431),CIU11
+LOC540, Recoleta,CIU03
+LOC541, Recoleta 1,CIU03
+LOC542, Recta,CIU06
+LOC543, Republica Arabe Siria (920),CIU03
+LOC544, Resistencia,CIU16
+LOC545, Resistencia (44),CIU16
+LOC546, Resistencia (674),CIU16
+LOC547, Resistencia IV,CIU16
+LOC548, Río Cuarto,CIU17
+LOC549, Rio Cuarto (119),CIU17
+LOC550, Río Cuarto (195),CIU17
+LOC551, Rivadavia,CIU03
+LOC552, Rivadavia (30),CIU03
+LOC553, Rivadavia (901),CIU03
+LOC554, Rivadavia 3075,CIU11
+LOC555, Rivadavia 349,CIU03
+LOC556, Rivadavia 4095,CIU03
+LOC557, Rivadavia 6899,CIU03
+LOC558, Rivadavia 6899 (82),CIU03
+LOC559, Rivadavia 7263,CIU03
+LOC560, Rodriguez peña 1818 (274),CIU03
+LOC561, Roldan (4),CIU03
+LOC562, Rosario,CIU03
+LOC563, Rosario (5218),CIU18
+LOC564, Rossi,CIU03
+LOC565, Rural,CIU03
+LOC566, Sa Luis 1,CIU22
+LOC567, Saavedra Donado (641),CIU03
+LOC568, SAL Peatonal Alberdi,CIU19
+LOC569, Salta (1059),CIU26
+LOC570, Salta (5251),CIU19
+LOC571, Salta Sur (656),CIU19
+LOC572, San Fernando,CIU03
+LOC573, San Fernando (4628),CIU03
+LOC574, San Fernando (598),CIU03
+LOC575, San Fernando (628),CIU03
+LOC576, San Francisco,CIU27
+LOC577, San Isidro,CIU03
+LOC578, San Isidro (4401),CIU03
+LOC579, San Isidro 2 [Laprida 18],CIU03
+LOC580, San Juan,CIU03
+LOC581, San Juan (1102),CIU21
+LOC582, San Juan (413),CIU21
+LOC583, San Juan (4696),CIU03
+LOC584, San Justo,CIU03
+LOC585, San Justo (9),CIU03
+LOC586, san lorenzo,CIU23
+LOC587, San Luis (137),CIU22
+LOC588, San Luis (853),CIU22
+LOC589, San Luis 4,CIU22
+LOC590, San Martin,CIU03
+LOC591, San Martin (24),CIU03
+LOC592, San Martin (5205),CIU03
+LOC593, San Martin 1422 (289),CIU03
+LOC594, San Martin 3103,CIU03
+LOC595, San Martin 6994,CIU03
+LOC596, San Miguel,CIU03
+LOC597, San Miguel (287),CIU03
+LOC598, San Miguel (324),CIU03
+LOC599, San Pedrito,CIU03
+LOC600, San Pedrito (301),CIU03
+LOC601, San Rafael,CIU24
+LOC602, San Rafael (191),CIU24
+LOC603, Santa Fe (118),CIU26
+LOC604, Santa Fe (211),CIU03
+LOC605, Santa Fe (22),CIU03
+LOC606, Santa fe 2101,CIU03
+LOC607, Santa Fe 3669,CIU03
+LOC608, Santa Fe 3976,CIU03
+LOC609, Santa Fe 4596 (116),CIU03
+LOC610, Santa Fe 4802,CIU03
+LOC611, Santa Fe Capital [San Martin 2148],CIU26
+LOC612, Santafe 4292 (109),CIU03
+LOC613, Santiago del Estero (887),CIU27
+LOC614, Santiago del Estero 2,CIU27
+LOC615, Scalabrini (256),CIU03
+LOC616, Scalabrini 1602,CIU03
+LOC617, Scalabrini II (277),CIU03
+LOC618, Scalabrini OrtÃ­z,CIU03
+LOC619, Scalabrini Ortiz (408),CIU03
+LOC620, Scalabrini Ortiz 1501,CIU03
+LOC621, Segurola 1696,CIU03
+LOC622, Serrano,CIU03
+LOC623, Soldado,CIU03
+LOC624, Soldado (310),CIU03
+LOC625, SOLDADO DE LA INDEPENDENCIA 1179 (140),CIU03
+LOC626, Soler 3300,CIU03
+LOC627, Suc. ColÃ³n,CIU23
+LOC628, Suc. Roca,CIU23
+LOC629, Suc. Urquiza,CIU23
+LOC630, Sucre (4012),CIU03
+LOC631, Sucursal Belgrano,CIU23
+LOC632, Sucursal Solar,CIU23
+LOC633, Sucursal Troncos,CIU23
+LOC634, Superi,CIU03
+LOC635, Tacuari,CIU03
+LOC636, Tandil (273),CIU28
+LOC637, Tandil (31),CIU28
+LOC638, Tandil (711),CIU28
+LOC639, Temperley,CIU03
+LOC640, Tienda Digital,CIU12
+LOC641, Toledo 702,CIU19
+LOC642, Tortuguitas (61),CIU03
+LOC643, Tratado del Pilar (283),CIU03
+LOC644, Tribunales,CIU03
+LOC645, Triunvirato,CIU03
+LOC646, Triunvirato 4710 (272),CIU03
+LOC647, Tronador (5259),CIU03
+LOC648, Tucumán,CIU03
+LOC649, Tucuman (5227),CIU23
+LOC650, Tucuman (659),CIU23
+LOC651, Unicenter,CIU03
+LOC652, Unicenter (5202),CIU03
+LOC653, Unicenter 3er Piso,CIU03
+LOC654, Velez Sarfield,CIU03
+LOC655, velez sarsfield,CIU06
+LOC656, Vernet,CIU03
+LOC657, Vicente Lopez,CIU03
+LOC658, Vicente López (4304),CIU03
+LOC659, Victoria (146),CIU03
+LOC660, Vidal 2300,CIU03
+LOC661, Vidt,CIU03
+LOC662, Villa Allende (583),CIU06
+LOC663, Villa Ballester,CIU03
+LOC664, Villa CRespo,CIU03
+LOC665, Villa del Parque (1102),CIU03
+LOC666, Villa Devoto,CIU03
+LOC667, Villa General Mitre (371),CIU03
+LOC668, Villa Luro (083),CIU03
+LOC669, Villa Luro (1538),CIU03
+LOC670, Villa Pueyrredon,CIU03
+LOC671, Villa Real (700),CIU03
+LOC672, Villa Urquiza,CIU03
+LOC673, Virreyes [Av.avellaneda 1745/47/49],CIU03
+LOC674, Zárate (216),CIU30
+LOC675, Rivadavia,CIU03
+LOC676, San Juan,CIU03
+LOC677,Av. Del Libertador 6068,CIU03
+LOC678,Av. Fuerza Aerea 1895,CIU06
+LOC679,av. Monroe 2703,CIU03
+LOC680,Av. S. Elcano 3102,CIU03
+LOC681,Av. Velez Sarsfield 321,CIU06
+LOC682,Boulevard los Granaderos 2455,CIU06
+LOC683,Gabuid,CIU03
+LOC684,Rondeau 49,CIU12
+LOC685,s Cordoba,CIU06

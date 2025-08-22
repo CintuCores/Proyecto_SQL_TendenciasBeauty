@@ -1,0 +1,50 @@
+﻿ID_Segmento,Segmento,ID_SubCategoria
+SEG01,Alcohol,SUBCAT01
+SEG02,Descongestionantes,SUBCAT02
+SEG03,Resfriado,SUBCAT02
+SEG04,Tos,SUBCAT02
+SEG07,Antihongos,SUBCAT07
+SEG08,Otros Remedios Digestivos,SUBCAT08
+SEG09,Remedios Digestivos,SUBCAT08
+SEG10,Suero RehidrataciÃ³n Oral,SUBCAT11
+SEG11,Sedantes Y Conciliadores Del SueÃ±o,SUBCAT19
+SEG12,Sistema Musculo EsquelÃ©tico,SUBCAT14
+SEG13,Sistema Nervioso,SUBCAT19
+SEG14,AnalgÃ©sicos SistÃ©micos,SUBCAT14
+SEG15,AnalgÃ©sicos TÃ³picos,SUBCAT15
+SEG16,Lubricantes,SUBCAT16
+SEG17,Ã“vulos Y Cremas Vaginales,SUBCAT16
+SEG18,Prueba De Embarazo,SUBCAT16
+SEG20,Cuidado-Cremas Humectantes E Hidratantes,SUBCAT20
+SEG21,Cuidado-Anti AcnÃ©,SUBCAT21
+SEG22,Cuidado-Contorno De Ojos,SUBCAT21
+SEG23,Cuidado-Crema Anti-Edad O Anti-Arrugas,SUBCAT21
+SEG25,Limpieza-Agua Micelar,SUBCAT21
+SEG26,Limpieza-Gel Limpiador,SUBCAT21
+SEG27,Limpieza-Toallitas Desmaquillantes Y De Limpieza,SUBCAT21
+SEG28,Acondicionador,SUBCAT28
+SEG29,Crema Para Peinar,SUBCAT28
+SEG30,Kit Shampoo Y Acondicionador,SUBCAT28
+SEG31,Shampoo,SUBCAT28
+SEG32,Shampoo Seco,SUBCAT28
+SEG33,Tratamiento Para El Cabello,SUBCAT28
+SEG34,Kits CosmÃ©ticos,SUBCAT34
+SEG35,Base,SUBCAT35
+SEG36,Polvo Compacto,SUBCAT36
+SEG37,Bloqueador Solar,SUBCAT37
+SEG38,Estuche De Tratamiento,SUBCAT38
+SEG39,HidrataciÃ³n,SUBCAT39
+SEG40,Rostro,SUBCAT41
+SEG41,Anti AcnÃ©,SUBCAT41
+SEG42,Antiedad,SUBCAT41
+SEG43,Antiedad Ojos,SUBCAT41
+SEG45,Limpieza,SUBCAT41
+SEG46,Tratamiento De Cicatrices,SUBCAT41
+SEG47,JabÃ³n En Barra,SUBCAT47
+SEG48,JabÃ³n LÃ­quido,SUBCAT47
+SEG49,Jabones Especializados,SUBCAT47
+SEG50,PaÃ±itos HÃºmedos,SUBCAT50
+SEG51,PaÃ±itos HÃºmedos Antibacterial,SUBCAT50
+SEG52,Desodorante Ãntimo,SUBCAT52
+SEG53,JabÃ³n Ãntimo,SUBCAT52
+SEG54,Pilas Y Cargadores,SUBCAT54
